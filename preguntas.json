@@ -1,0 +1,159 @@
+[
+  {
+<<<<<<< HEAD
+    "preguntas" :   "¿De las siguientes que prefieres hacer en tu tiempo libre?",
+    "opciones"    :   ["Ir a ver algúna película", "Ver el noticiero, o leer el periodico","Leer un buen libro", "Estar en contacto con la naturaleza",
+    "Hacer cualquier cosa en la computadora", "Leer artículos científicos interesantes"],
+    "Art" : "1",
+    "Fin" : "2",
+    "Com" : "3",
+    "Bio" : "4",
+    "Tec" : "5",
+    "Cien" : "6"
+
+  },
+  {
+    "preguntas":"De los siguientes,¿Qué tema prefieres tratar en una conversación?",
+    "opciones":["El estado actual del País","Novedades en la TV, radio, Redes sociales",
+      "El estado del medio ambiente","Lo último en tecnología", "Enfermedades y sus tratamientos", "Farándula, arte, pintura y teatro"],
+      "Art" : "6",
+      "Fin" : "1",
+      "Com" : "2",
+      "Bio" : "3",
+      "Tec" : "4",
+      "Cien" : "5"
+  },
+  {
+    "preguntas":"De las siguientes,¿En qué materia te va mejor?",
+    "opciones":["Matemáticas","Filosofia","Español","Biología", "Sociales", "Química"],
+    "Art" : "2",
+    "Fin" : "5",
+    "Com" : "3",
+    "Bio" : "4",
+    "Tec" : "1",
+    "Cien" : "6"
+  },
+  {
+    "preguntas":"De los siguientes elementos, ¿Cuál te gustaría tener?",
+    "opciones":["Un PC de última generación","Guitarra","Calculadora financiera","Microscopio", "Una mascota", "Un libro"],
+    "Art" : "2",
+    "Fin" : "3",
+    "Com" : "6",
+    "Bio" : "5",
+    "Tec" : "1",
+    "Cien" : "4"
+  },
+  {
+    "preguntas" :   "De los siguientes, ¿Qué lugar llama más tu atención?",
+    "opciones"    :   ["Museo de Historia Natural", "Museo de arte contemporaneo", "El senado", "La Morgue", "Google", "Todas las anteriores"],
+    "Art" : "2",
+    "Fin" : "3",
+    "Com" : "6",
+    "Bio" : "1",
+    "Tec" : "5",
+    "Cien" : "4"
+  },
+  {
+    "preguntas":"En la producción de una película, me gustaría participar en:",
+    "opciones":["Elaboración del guion","Actuación"," Publicidad y Marketing","Elección del ambiente natural", "Consultoría, enfermería",
+       "Infraestructura"],
+    "Art" : "2",
+    "Fin" : "3",
+    "Com" : "1",
+    "Bio" : "4",
+    "Tec" : "6",
+    "Cien" : "5"
+  },
+  {
+    "preguntas":"Para desarrollar mejor una cultura, es necesario:",
+    "opciones":["Establecer una mejor comunicación entre ellos","Implementar más medicamentos","Incentivarlos a cuidar el medio ambiente",
+      "Crear una Jerarquía organizacional", "Mostrar sus raices a través del arte", "Implementar las TIC"],
+    "Art" : "5",
+    "Fin" : "4",
+    "Com" : "1",
+    "Bio" : "3",
+    "Tec" : "6",
+    "Cien" : "2"
+  },
+  {
+    "preguntas":"Si tuviese que trabajar en el área agrícola, elegiría ser:",
+    "opciones":["Supervisor y encargado de recursos humanos y capacitación","Paisajista o diseñador de áreas verdes",
+      "Administrador de una empresa exportadora de semillas","Planiﬁcador de un sistema de riego eﬁciente","Encargado de siembra, cultivo y cosecha",
+    "Diseñador del ambiente fisico de la planta"],
+    "Art" : "6",
+    "Fin" : "3",
+    "Com" : "1",
+    "Bio" : "2",
+    "Tec" : "4",
+    "Cien" : "5"
+  },
+  {
+    "preguntas":" Si tuviese que hacer un trabajo de investigación, me inclinaría por:",
+    "opciones":["El estado del medio ambiente actual","El desarrollo de la robótica",
+      "Los últimos avances en tratamiento para el cáncer","El impacto de la globalización económica en la producción nacional",
+      "La evolución de la música folklórica en nuestro país","Los efectos de los medios de comunicación de masas en las persona"],
+    "Art" : "5",
+    "Fin" : "4",
+    "Com" : "6",
+    "Bio" : "1",
+    "Tec" : "2",
+    "Cien" : "3"
+  },
+
+  {
+    "preguntas": "Cuando camino por la ciudad, me ﬁjo en:",
+    "opciones":["El aislamiento urbano",
+      "El diseño urbano de las calles y áreas verdes","Las ventas del comercio ambulante",
+      "El estado de la salud de los animales callejeros",
+      "El desarrollo tecnológico que se presenta",
+      "Los ajentes contaminantes del medio"],
+
+    "Art" : "2",
+    "Fin" : "3",
+    "Com" : "1",
+    "Bio" : "4",
+    "Tec" : "5",
+    "Cien" : "6"
+=======
+    "preguntas" :   "A parte de los libros que te mandan en la escuela ¿con qué frecuencia lees?",
+    "opciones"    :   ["Nunca", "de vez en cuando","Cada vez que tengo tiempo", "siempre"],
+    "correctas"   :   "2"
+  },
+  {
+    "preguntas":"¿Qué haces cuando estás enfermo y te mandan tomar un medicamento?",
+    "opciones":["Sencillamente lo tomo.","Miro qué contraindicaciones puede tener.",
+      "Leo el prospecto de arriba a abajo.","formulo mi propia medicina"],
+    "correctas":"1"
+  },
+  {
+    "preguntas":"Tu nota media de matemáticas en el colegio fue de:",
+    "opciones":["meos de 3","4","5","más de 5"],
+    "correctas":"2"
+  },
+  {
+    "preguntas":"Del 1 al 10 ¿con qué soltura te desenvuelves con la computadora?",
+    "opciones":["1 - 3","4 - 6","7 - 9"," 10"],
+    "correctas":"4"
+  },
+  {
+    "preguntas" :   "¿Estarías de acuerdo en trabajar en una revista de economía escribiendo artículos?",
+    "opciones"    :   ["No", "Talz vez","Sería interesante", "Porsupuesto"],
+    "correctas"   :   "2"
+  },
+  {
+    "preguntas":"El funcionamiento de la célula te parece:",
+    "opciones":["aburrido","interesante","indiferente","super"],
+    "correctas":"4"
+  },
+  {
+    "preguntas":"¿Perteneces a alguna asociación de ayuda social?",
+    "opciones":["No entra een mis planes","Quizá más adelante","Ya pertenecí y no me gustó","Ya pertenesco a una"],
+    "correctas":"1"
+  },
+  {
+    "preguntas":"¿Te gustaría estudiar en profundidad un idioma?",
+    "opciones":["no le veo interés","tal vez como complemento","ya estudio idiomas","No"],
+    "correctas":"2"
+>>>>>>> origin/master
+  }
+]
